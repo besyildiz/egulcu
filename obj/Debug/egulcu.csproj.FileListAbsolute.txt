@@ -1,0 +1,6 @@
+e:\egulcu_\egulcu\bin\egulcu.dll.config
+e:\egulcu_\egulcu\bin\egulcu.dll
+e:\egulcu_\egulcu\bin\egulcu.pdb
+e:\egulcu_\egulcu\obj\Debug\egulcu.csprojResolveAssemblyReference.cache
+e:\egulcu_\egulcu\obj\Debug\egulcu.dll
+e:\egulcu_\egulcu\obj\Debug\egulcu.pdb
