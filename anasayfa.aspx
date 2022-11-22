@@ -67,8 +67,8 @@
                         </a><a href="yapimAsamasinda.html" target="_blank" rel="noopener noreferrer">
                             <div class="Card four columns" style="opacity: 1; transform: none;">
                                 <img class="cover" src="resimler/portfolyo.png" alt=""><div class="data">
-                                    <h2>Fotoğraf galerim</h2>
-                                    <p>Check out my Photography!</p>
+                                    <h2>Aklıma yazmak geldi</h2>
+                                    <p>Not etmek üzere yazdığım yazılar</p>
                                 </div>
                             </div>
                         </a><a href="https://www.youtube.com/mehterli" target="_blank" rel="noopener noreferrer">
