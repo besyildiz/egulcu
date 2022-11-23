@@ -58,8 +58,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="filmler\LICENSE.md" />
-    <Content Include="filmler\README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -70,7 +68,6 @@
   <ItemGroup>
     <Content Include="anasayfa.aspx" />
     <Content Include="filmler\index.html" />
-    <Content Include="filmler\screenshot.png" />
     <Content Include="filmler\style.css" />
     <Content Include="resimler\apple-touch-icon.png" />
     <Content Include="resimler\code.png" />
@@ -86,6 +83,8 @@
     <Content Include="resimler\kitap.png" />
     <Content Include="resimler\linkedin.png" />
     <Content Include="resimler\makale.png" />
+    <Content Include="resimler\makine_ogrenmesi.jpg" />
+    <Content Include="resimler\makine_ogrenmesi2.jpg" />
     <Content Include="resimler\portfolyo.png" />
     <Content Include="resimler\profil.png" />
     <Content Include="resimler\resim_galerisi.png" />
